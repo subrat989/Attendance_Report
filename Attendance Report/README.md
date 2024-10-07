@@ -1,6 +1,5 @@
 # Employee Attendance Dashboard
 
-<img src="https://github.com/RadhikaDeshpande1010/Power-BI-Employee-Attendance-Dashboard/blob/main/Visual%20Background.png" height="230" width="1200">
 
 ## Table of Contents
 * [Introduction](#Introduction)
@@ -80,7 +79,6 @@ The assigned attendance aliases (attendance key) are as followed:
 
 ## Dashboard
 
-![Dashboard Image](https://github.com/RadhikaDeshpande1010/Power-BI-Employee-Attendance-Dashboard/blob/main/SRC/Attendance%20Dashboard.png "Attendance Dashboard")
 
 ## Conclusion
 In conclusion, the Employee Attendance Dashboard has provided valuable insights into our workforce's attendance patterns and behaviors. Through thorough analysis of the data, several key findings have emerged:
